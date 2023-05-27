@@ -1,0 +1,9 @@
+#divLista
+{
+    height: 80vh;
+    overflow-y: auto;
+}
+#imgPerro
+{
+    max-height:80vh;
+}

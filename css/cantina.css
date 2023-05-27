@@ -1,0 +1,22 @@
+#divIngredientes
+{
+    height: 80vh;
+    overflow-y: auto;
+}
+
+#divRecetas
+{
+    height: 80vh;
+    overflow-y: auto;    
+}
+
+#imgBebida
+{
+    max-height: 40vh;    
+}
+
+#pBebida
+{
+    height: 40vh;
+    overflow-y: auto;
+}

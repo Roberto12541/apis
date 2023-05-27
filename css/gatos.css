@@ -1,0 +1,7 @@
+#divLista{
+    height: 80vh;
+    overflow-y: auto;
+}
+#imgGato{
+    max-height:80vh;
+}

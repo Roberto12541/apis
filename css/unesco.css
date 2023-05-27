@@ -1,0 +1,11 @@
+#divColumnaPaises
+{
+    height: 80vh;
+    overflow-y: auto;
+}
+
+#divColumnaGraficas
+{
+    height: 80vh;
+    overflow-y: auto;
+}

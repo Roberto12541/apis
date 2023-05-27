@@ -1,0 +1,13 @@
+.tarjeta
+{
+    width: 15rem;
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
+
+.contenedor
+{
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}

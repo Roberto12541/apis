@@ -1,0 +1,18 @@
+#tableDatos
+{
+    width: 90%;
+    margin: 0 auto;
+    float: none;
+}
+
+.trDatos
+{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.contenedor
+{
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
